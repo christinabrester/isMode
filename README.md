@@ -1,4 +1,3 @@
-# isMode
 # Intelligent System for Model Design (isMODE) in Personalized Medicine 
 University of Eastern Finland
 
