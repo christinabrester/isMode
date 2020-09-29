@@ -7,7 +7,7 @@ Currently, there are files with the source code and results presented in:
 
 - the article "Epidemiological predictive modeling: lessons learnt from the Kuopio Ischemic Heart Disease Risk Factor Study" by Christina Brester, Ari Voutilainen, Tomi-Pekka Tuomainen, Jussi Kauhanen, Mikko Kolehmainen
 
-  Figure 2 (an interective version):
+  Figure 2 (an interactive version):
   https://christinabrester.github.io/isMode/AUCs
 
   Additional tables with mean AUCs and 95%CI:
