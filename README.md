@@ -13,4 +13,8 @@ Currently, there are files with the source code and results presented in:
 
   Additional tables with mean AUCs and 95%CI:
   https://christinabrester.github.io/isMode/CI_AUCs
+  
+  Source code:
+  Jupyter notebook "model comparison.ipynb": https://github.com/christinabrester/isMode/blob/master/model%20comparison.ipynb 
+  https://christinabrester.github.io/isMode/model%20comparison.ipynb 
 
