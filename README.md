@@ -16,5 +16,4 @@ Currently, there are files with the source code and results presented in:
   
   Source code:
   Jupyter notebook "model comparison.ipynb": https://github.com/christinabrester/isMode/blob/master/model%20comparison.ipynb 
-  https://christinabrester.github.io/isMode/model%20comparison.ipynb 
 
