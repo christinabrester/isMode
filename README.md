@@ -19,6 +19,6 @@ Currently, there are files with the source code and results presented in:
 - the article "Post-analysis of predictive modeling with an epidemiological example" by Christina Brester, Ari Voutilainen, Tomi-Pekka Tuomainen, Jussi Kauhanen, Mikko Kolehmainen
 
   Source code:
-  Jupyter notebook "rule generation.ipynb": 
+  Jupyter notebook "rule generation.ipynb": https://github.com/christinabrester/isMode/blob/master/rule%20generation.ipynb
   
   
