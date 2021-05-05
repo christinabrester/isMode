@@ -26,7 +26,8 @@ Currently, there are files with the source code and results presented in:
 
   Source code:
   Jupyter notebooks 
-  "1 - CIF vs KM.ipynb": 
+  "1 - CIF vs KM.ipynb": https://github.com/christinabrester/isMode/blob/master/1%20-%20CIF%20vs%20KM.ipynb
+  
   "2 - Missing patters.ipynb": 
   "3 - Data splitting into training, validation, test and filling gaps parts.ipynb": 
   "4 - Cause-specific and subdistribution hazard models, Random Forest for pre-selected predictors.ipynb": 
