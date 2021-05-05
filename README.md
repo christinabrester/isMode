@@ -22,3 +22,16 @@ Currently, there are files with the source code and results presented in:
   Jupyter notebook "rule generation.ipynb": https://github.com/christinabrester/isMode/blob/master/rule%20generation.ipynb
   
   
+  - the article "Predicting risk of cardiovascular death on the high-dimensional electronic health record data in the presence of competing events" by Christina Brester, Ari   Voutilainen, Tomi-Pekka Tuomainen, Jussi Kauhanen, Mikko Kolehmainen
+
+  Source code:
+  Jupyter notebooks 
+  "1 - CIF vs KM.ipynb": 
+  "2 - Missing patters.ipynb": 
+  "3 - Data splitting into training, validation, test and filling gaps parts.ipynb": 
+  "4 - Cause-specific and subdistribution hazard models, Random Forest for pre-selected predictors.ipynb": 
+  "5 - Random Forest for many predictors.ipynb": 
+  "6 - AUC curves.ipynb": 
+  
+  
+  
