@@ -30,7 +30,8 @@ Currently, there are files with the source code and results presented in:
   
   "2 - Missing patters.ipynb": https://github.com/christinabrester/isMode/blob/master/2%20-%20Missing%20patters.ipynb
   
-  "3 - Data splitting into training, validation, test and filling gaps parts.ipynb": 
+  "3 - Data splitting into training, validation, test and filling gaps parts.ipynb": https://github.com/christinabrester/isMode/blob/master/3%20-%20Data%20splitting%20into%20training%2C%20validation%2C%20test%20and%20filling%20gaps%20parts.ipynb
+  
   "4 - Cause-specific and subdistribution hazard models, Random Forest for pre-selected predictors.ipynb": 
   "5 - Random Forest for many predictors.ipynb": 
   "6 - AUC curves.ipynb": 
