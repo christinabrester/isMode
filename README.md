@@ -36,7 +36,7 @@ Currently, there are files with the source code and results presented in:
   
   "5 - Random Forest for many predictors.ipynb": https://github.com/christinabrester/isMode/blob/master/5%20-%20Random%20Forest%20for%20many%20predictors.ipynb
   
-  "6 - AUC curves.ipynb": 
+  "6 - AUC curves.ipynb": https://github.com/christinabrester/isMode/blob/master/6%20-%20AUC%20curves.ipynb
   
   
   
