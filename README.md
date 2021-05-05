@@ -34,7 +34,8 @@ Currently, there are files with the source code and results presented in:
   
   "4 - Cause-specific and subdistribution hazard models, Random Forest for pre-selected predictors.ipynb": https://github.com/christinabrester/isMode/blob/master/4%20-%20Cause-specific%20and%20subdistribution%20hazard%20models%2C%20Random%20Forest%20for%20pre-selected%20predictors.ipynb
   
-  "5 - Random Forest for many predictors.ipynb": 
+  "5 - Random Forest for many predictors.ipynb": https://github.com/christinabrester/isMode/blob/master/5%20-%20Random%20Forest%20for%20many%20predictors.ipynb
+  
   "6 - AUC curves.ipynb": 
   
   
