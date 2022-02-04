@@ -7,14 +7,14 @@ Currently, there are files with the source code and results presented in:
 
 - the article "Epidemiological predictive modeling: lessons learned from the Kuopio Ischemic Heart Disease Risk Factor Study" by Christina Brester, Ari Voutilainen, Tomi-Pekka Tuomainen, Jussi Kauhanen, Mikko Kolehmainen
 
-  Figure 2 (an interactive version):
-  https://christinabrester.github.io/isMode/AUCs
+  Figure 2 (an interactive version): AUC values in scenario 1
+  - https://christinabrester.github.io/isMode/AUCs_scenario_1
+  Figure 3 (an interactive version): AUC values in scenario 2
+  - https://christinabrester.github.io/isMode/AUCs_scenario_2
 
   Additional tables with mean AUCs and 95%CI:
-  
-    scenario 1: https://christinabrester.github.io/isMode/CI_AUCs_scenario_1
-  
-    scenario 2: https://christinabrester.github.io/isMode/CI_AUCs_scenario_2
+  - scenario 1: https://christinabrester.github.io/isMode/CI_AUCs_scenario_1
+  - scenario 2: https://christinabrester.github.io/isMode/CI_AUCs_scenario_2
   
   Source code:
   Jupyter notebook "model comparison.ipynb": https://github.com/christinabrester/isMode/blob/master/model%20comparison.ipynb 
