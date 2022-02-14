@@ -18,7 +18,7 @@ Currently, there are files with the source code and results presented in:
   - scenario 2: https://christinabrester.github.io/isMode/CI_AUCs_scenario_2
   
   Source code:
-  Jupyter notebook "model comparison.ipynb": https://github.com/christinabrester/isMode/blob/master/model%20comparison.ipynb 
+  Jupyter notebook "model comparison.ipynb": https://github.com/christinabrester/isMode/blob/master/model%20comparison%20v2.ipynb 
 
 - the article "Post-analysis of predictive modeling with an epidemiological example" by Christina Brester, Ari Voutilainen, Tomi-Pekka Tuomainen, Jussi Kauhanen, Mikko Kolehmainen
 
